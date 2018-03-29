@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.13" icons="true" automaticImage="PNG" always-add-relationships="true" generalizations="true" 
+  realizations="true" associations="true" dependencies="true" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="it.giuseppeaccardo.datamining.exception.FileNonTrovatoException" 
+    project="DataMiningApp" 
+    file="/DataMiningApp/src/it/giuseppeaccardo/datamining/exception/FileNonTrovatoException.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="101" width="204" x="2405" y="421"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="it.giuseppeaccardo.datamining.model.ricordo.Caretaker" project="DataMiningApp" 
+    file="/DataMiningApp/src/it/giuseppeaccardo/datamining/model/ricordo/Caretaker.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="119" width="217" x="604" y="901"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="it.giuseppeaccardo.datamining.Main" project="DataMiningApp" 
+    file="/DataMiningApp/src/it/giuseppeaccardo/datamining/Main.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="173" width="156" x="1794" y="-794"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="it.giuseppeaccardo.datamining.model.CalcolatoreCentroideThread" 
+    project="DataMiningApp" 
+    file="/DataMiningApp/src/it/giuseppeaccardo/datamining/model/CalcolatoreCentroideThread.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="137" width="229" x="1193" y="901"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="it.giuseppeaccardo.datamining.model.PCAcolt" project="DataMiningApp" 
+    file="/DataMiningApp/src/it/giuseppeaccardo/datamining/model/PCAcolt.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="137" width="290" x="1483" y="901"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="it.giuseppeaccardo.datamining.model.Dataset" project="DataMiningApp" 
+    file="/DataMiningApp/src/it/giuseppeaccardo/datamining/model/Dataset.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="497" width="281" x="1836" y="1078"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="it.giuseppeaccardo.datamining.exception.AlgoritmoDivergenteException" 
+    project="DataMiningApp" 
+    file="/DataMiningApp/src/it/giuseppeaccardo/datamining/exception/AlgoritmoDivergenteException.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="919" y="130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="8" language="java" name="it.giuseppeaccardo.datamining.model.ricordo.Memento" project="DataMiningApp" 
+    file="/DataMiningApp/src/it/giuseppeaccardo/datamining/model/ricordo/Memento.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="83" width="217" x="894" y="1615"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="9" language="java" name="it.giuseppeaccardo.datamining.exception.FileMioIOException" 
+    project="DataMiningApp" file="/DataMiningApp/src/it/giuseppeaccardo/datamining/exception/FileMioIOException.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="200" x="2119" y="64"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="it.giuseppeaccardo.datamining.model.ricordo.MementoConcreto" 
+    project="DataMiningApp" file="/DataMiningApp/src/it/giuseppeaccardo/datamining/model/ricordo/MementoConcreto.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="217" x="765" y="1078"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="it.giuseppeaccardo.datamining.exception.FileNumeriFormatoException" 
+    project="DataMiningApp" 
+    file="/DataMiningApp/src/it/giuseppeaccardo/datamining/exception/FileNumeriFormatoException.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="101" width="225" x="2119" y="421"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="it.giuseppeaccardo.datamining.model.DataMining" project="DataMiningApp" 
+    file="/DataMiningApp/src/it/giuseppeaccardo/datamining/model/DataMining.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="281" width="256" x="1421" y="580"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="it.giuseppeaccardo.datamining.DataminingController" project="DataMiningApp" 
+    file="/DataMiningApp/src/it/giuseppeaccardo/datamining/DataminingController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="605" width="631" x="1794" y="-581"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="it.giuseppeaccardo.datamining.model.Cluster" project="DataMiningApp" 
+    file="/DataMiningApp/src/it/giuseppeaccardo/datamining/model/Cluster.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="299" width="255" x="1132" y="1774"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="it.giuseppeaccardo.datamining.visualizzazione.grafico2D" project="DataMiningApp" 
+    file="/DataMiningApp/src/it/giuseppeaccardo/datamining/visualizzazione/grafico2D.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="137" width="241" x="1421" y="64"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="it.giuseppeaccardo.datamining.visualizzazione.grafico3D" project="DataMiningApp" 
+    file="/DataMiningApp/src/it/giuseppeaccardo/datamining/visualizzazione/grafico3D.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="317" width="239" x="1794" y="64"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="it.giuseppeaccardo.datamining.visualizzazione.grafico3D.Axis" 
+    project="DataMiningApp" file="/DataMiningApp/src/it/giuseppeaccardo/datamining/visualizzazione/grafico3D.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="119" width="224" x="1855" y="421"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="it.giuseppeaccardo.datamining.model.ricordo.Originator" project="DataMiningApp" 
+    file="/DataMiningApp/src/it/giuseppeaccardo/datamining/model/ricordo/Originator.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="137" width="250" x="861" y="901"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="19" language="java" name="it.giuseppeaccardo.datamining.visualizzazione.IvisualizzaGraficoStrategy" 
+    project="DataMiningApp" 
+    file="/DataMiningApp/src/it/giuseppeaccardo/datamining/visualizzazione/IvisualizzaGraficoStrategy.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="83" width="228" x="1482" y="421"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="20" language="java" name="it.giuseppeaccardo.datamining.exception.FeatureInsufficientiException" 
+    project="DataMiningApp" 
+    file="/DataMiningApp/src/it/giuseppeaccardo/datamining/exception/FeatureInsufficientiException.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="928" y="602"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="it.giuseppeaccardo.datamining.model.DatasetIris" project="DataMiningApp" 
+    file="/DataMiningApp/src/it/giuseppeaccardo/datamining/model/DatasetIris.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2382" y="1718"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="22">    
+    <bendpoint x="1183" y="1078"/>    
+    <bendpoint x="1183" y="1615"/>    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="23" name="cluster"/>      
+      <multiplicity id="24" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="25">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <generalization id="26">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <dependency id="27">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <dependency id="28">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <dependency id="29">    
+    <bendpoint x="1761" y="421"/>    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <association id="30">    
+    <bendpoint x="734" y="1078"/>    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="31" name="mementiSalvati"/>      
+      <multiplicity id="32" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="33">    
+    <bendpoint x="1141" y="1078"/>    
+    <bendpoint x="1141" y="1615"/>    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="34" name="statoSalvato"/>      
+      <multiplicity id="35" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="36">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <realization id="37">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="8"/>  
+  </realization>  
+  <dependency id="38">    
+    <bendpoint x="1451" y="421"/>    
+    <bendpoint x="1782" y="580"/>    
+    <bendpoint x="1824" y="901"/>    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <dependency id="39">    
+    <bendpoint x="1803" y="421"/>    
+    <bendpoint x="1803" y="580"/>    
+    <bendpoint x="1803" y="901"/>    
+    <bendpoint x="1803" y="1078"/>    
+    <bendpoint x="1803" y="1615"/>    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="14"/>  
+  </dependency>  
+  <dependency id="40">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <association id="41">    
+    <bendpoint x="1452" y="901"/>    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="42" name="dataset"/>      
+      <multiplicity id="43" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="44">    
+    <bendpoint x="1012" y="1078"/>    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <association id="45">    
+    <bendpoint x="2639" y="64"/>    
+    <bendpoint x="2639" y="421"/>    
+    <bendpoint x="2639" y="580"/>    
+    <bendpoint x="2639" y="901"/>    
+    <bendpoint x="2639" y="1078"/>    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="46" name="dataset"/>      
+      <multiplicity id="47" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="48">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="19"/>  
+  </realization>  
+  <dependency id="49">    
+    <bendpoint x="2395" y="64"/>    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <association id="50">    
+    <bendpoint x="1740" y="64"/>    
+    <bendpoint x="1740" y="421"/>    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="51" name="model"/>      
+      <multiplicity id="52" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="53">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <association id="54">    
+    <bendpoint x="863" y="1615"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="55" name="statoMemento"/>      
+      <multiplicity id="56" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="57">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="20"/>  
+  </dependency>  
+  <dependency id="58">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <dependency id="59">    
+    <bendpoint x="1824" y="421"/>    
+    <bendpoint x="1834" y="580"/>    
+    <bendpoint x="1845" y="901"/>    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <generalization id="60">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <dependency id="61">    
+    <bendpoint x="1430" y="421"/>    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="62">    
+    <bendpoint x="334" y="64"/>    
+    <bendpoint x="334" y="421"/>    
+    <bendpoint x="334" y="580"/>    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="20"/>  
+  </dependency>  
+  <dependency id="63">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <dependency id="64">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="15"/>  
+  </dependency>  
+  <dependency id="65">    
+    <bendpoint x="1692" y="64"/>    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="19"/>  
+  </dependency>  
+  <dependency id="66">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="67">    
+    <bendpoint x="1782" y="421"/>    
+    <bendpoint x="1761" y="580"/>    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="68">    
+    <bendpoint x="355" y="421"/>    
+    <bendpoint x="355" y="580"/>    
+    <bendpoint x="294" y="901"/>    
+    <bendpoint x="294" y="1078"/>    
+    <bendpoint x="294" y="1615"/>    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="14"/>  
+  </dependency>  
+  <nesting id="69">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="17"/>  
+  </nesting>  
+  <dependency id="70">    
+    <bendpoint x="2374" y="64"/>    
+    <bendpoint x="2374" y="421"/>    
+    <bendpoint x="2374" y="580"/>    
+    <bendpoint x="2374" y="901"/>    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <dependency id="71">    
+    <bendpoint x="1141" y="901"/>    
+    <bendpoint x="1120" y="1078"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="72">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="16"/>  
+  </dependency>  
+  <association id="73">    
+    <bendpoint x="1162" y="901"/>    
+    <bendpoint x="1162" y="1078"/>    
+    <bendpoint x="1162" y="1615"/>    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="74" name="clusters"/>      
+      <multiplicity id="75" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="76">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <association id="77">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="78" name="dataset"/>      
+      <multiplicity id="79" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="80">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="19"/>  
+  </realization>  
+  <dependency id="81">    
+    <bendpoint x="2063" y="64"/>    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="82">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="14"/>  
+  </dependency>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

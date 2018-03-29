@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.13" icons="true" automaticImage="PNG" always-add-relationships="true" generalizations="true" 
+  realizations="true" associations="true" dependencies="true" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="it.giuseppeaccardo.datamining.exception.FileNumeriFormatoException" 
+    project="DataMiningApp" 
+    file="/DataMiningApp/src/it/giuseppeaccardo/datamining/exception/FileNumeriFormatoException.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="101" width="225" x="142" y="467"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="it.giuseppeaccardo.datamining.exception.FileNonTrovatoException" 
+    project="DataMiningApp" 
+    file="/DataMiningApp/src/it/giuseppeaccardo/datamining/exception/FileNonTrovatoException.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="101" width="204" x="407" y="467"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="it.giuseppeaccardo.datamining.exception.AlgoritmoDivergenteException" 
+    project="DataMiningApp" 
+    file="/DataMiningApp/src/it/giuseppeaccardo/datamining/exception/AlgoritmoDivergenteException.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="101" width="234" x="0" y="308"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="it.giuseppeaccardo.datamining.exception.FileMioIOException" 
+    project="DataMiningApp" file="/DataMiningApp/src/it/giuseppeaccardo/datamining/exception/FileMioIOException.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="200" x="274" y="308"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="it.giuseppeaccardo.datamining.exception.FeatureInsufficientiException" 
+    project="DataMiningApp" 
+    file="/DataMiningApp/src/it/giuseppeaccardo/datamining/exception/FeatureInsufficientiException.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="119" width="239" x="514" y="308"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="6">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <generalization id="7">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

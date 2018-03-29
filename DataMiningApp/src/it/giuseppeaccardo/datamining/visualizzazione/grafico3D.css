@@ -1,0 +1,66 @@
+/* FOGLIO DI STILE PER LA CLASSE grafico3D*/
+#legenda {
+			-fx-border-width: 3;
+			-fx-alignment: RIGHT;
+			-fx-padding: 5 0 0 10;
+	      	-fx-border-color: #00C0D0; 
+	      	-fx-background-image: url('../../../../../resources/images/sfondoGrafico3D.jpg');
+}
+
+#root {
+			-fx-border-width: 3;
+	      	-fx-border-color: #00C0D0; 
+	   }
+	      
+.chart-title {
+		-fx-font-size:24px;	
+	    -fx-font-weight: bold;
+	  	-fx-border-width: 2;
+		-fx-font-family: AppleGothic Regular;
+	    -fx-border-color: #00AAC2;
+		-fx-text-fill: #00AAC2;
+		-fx-background-color: black;
+			-fx-background-radius: 8px;
+		-fx-border-radius: 8px;
+}
+
+.chart {
+	-fx-min-height	: 500px;
+		-fx-min-width	: 380px;
+    -fx-text-fill: #00C1C2;
+    	-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 50, 0, 0, 0);
+	-fx-font-family: AppleGothic Regular;
+}
+.chart-content
+{	
+	-fx-padding: 80 20 0 0;
+}
+
+.chart-pie-label-line {
+    -fx-stroke: #00AAC2;
+    -fx-fill: #00C1C2;
+}
+ 
+.chart-pie-label {
+	-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 50, 0, 0, 0);
+
+    -fx-fill: #00CFCF;
+    -fx-font-size: 1.1em;
+} 
+.chart-legend { 
+
+	    -fx-border-radius: 5px;
+-fx-border-color: #00C1C2;
+}
+.chart-legend-item-symbol{
+   -fx-background-radius: 2px;
+}
+ 
+.chart-legend-item{
+    -fx-text-fill: #0011AA;
+	   -fx-padding: 1px;
+}
+.default-color0.chart-pie { -fx-pie-color: red; }
+.default-color1.chart-pie { -fx-pie-color: #ffa500; }
+.default-color2.chart-pie { -fx-pie-color: green; }
+.default-color3.chart-pie { -fx-pie-color: blue; }

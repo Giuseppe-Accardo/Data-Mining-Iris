@@ -1,0 +1,49 @@
+/* Stile utilizzato per effettuare l'evidenziatura alle celle */
+.table-cell:highlight {
+    -fx-background-color: -fx-background ;
+    -fx-background: #ffd700 ;
+    -fx-border-color: -fx-table-cell-border-color -fx-table-cell-border-color transparent transparent ;
+}
+
+#midSel{
+	-fx-background-image: url('../../../../resources/images/textureVerde.jpg'), url('../../../../resources/images/fiori2.png'),  url('../../../../resources/images/fiori.png');
+	-fx-background-position: center, left bottom, right;
+	-fx-background-repeat: no-repeat;
+
+
+}
+#topSel{
+	-fx-background-image: url('../../../../resources/images/textureGrigio.png');
+}
+#boxBassoDestra{
+	-fx-background-image: url('../../../../resources/images/textureBianco.jpg')
+
+}
+
+.button {
+    -fx-background-color:
+        linear-gradient(#9F9F9F, #000000),
+        radial-gradient(center 50% -40%, radius 200%, #b8ee36 45%, #80c800 50%);
+    -fx-background-radius: 6, 5;
+    -fx-background-insets: 0, 1;
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.4) , 5, 0.0 , 0 , 1 );
+    -fx-text-fill: #000000;
+    -fx-font-family: 'AppleGothic';
+      -fx-font-size: 14px;
+
+}
+.button:hover{
+    -fx-background-color:
+        linear-gradient(#30D5C8, #30D5C8),
+        radial-gradient(center 50% -40%, radius 200%, #aaaa00 45%, #A0c800 50%);
+            -fx-background-insets: 0 0 -1 0, 0, 1, 2;
+    -fx-background-radius: 3px, 3px, 2px, 1px;
+    -fx-padding: 0.333333em 0.666667em 0.333333em 0.666667em; /* 4 8 4 8 */
+    -fx-text-fill: white;
+    -fx-alignment: CENTER;
+    -fx-content-display: LEFT;
+}
+.button:disabled{
+    -fx-background-color: red;
+}
+

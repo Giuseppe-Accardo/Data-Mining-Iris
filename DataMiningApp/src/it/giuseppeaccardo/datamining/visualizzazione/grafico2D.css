@@ -1,0 +1,71 @@
+.chart-symbol { /* hollow circle */
+    
+    -fx-background-radius: 5px;
+    -fx-padding: 5px;
+    -fx-border-radius: 5px;
+    -fx-border-color:black;
+}
+.chart {
+	    	-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 50, 0, 0, 0);
+        -fx-border-color: #00C1C2;
+    -fx-background-color: #002041;
+    -fx-text-fill: #00C1C2;
+	-fx-font-family: AppleGothic Regular;
+}
+.axis {
+    -fx-font-size: 1.4em;    
+    -fx-tick-label-fill: #00AAC2;
+    -fx-font-family: Tahoma;
+    -fx-tick-length: 10;
+    -fx-minor-tick-length: 5;
+}
+.axis-label {
+  -fx-text-fill: #00C1C2;
+  -fx-font-size:16px;	
+   -fx-padding: 6px;
+}
+
+.chart-content {
+		    	-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 50, 0, 0, 0);
+
+    -fx-text-fill: #00C1C2;
+    -fx-padding: 10px;
+}
+.chart-title {
+		-fx-background-radius: 8px;
+ 		 -fx-font-size:24px;	
+	  -fx-font-weight: bold;
+        -fx-border-color: #00C1C2;
+    -fx-text-fill: #00C1C2;
+	-fx-background-repeat: repeat;
+    -fx-border-radius: 8px;
+}
+
+
+.chart-plot-background {
+    -fx-background-color: #faffff;
+}
+.chart-vertical-grid-lines {
+    -fx-stroke: #37605E;
+}
+.chart-horizontal-grid-lines {
+    -fx-stroke: #37605E;
+}
+.chart-alternative-row-fill {
+    -fx-fill: #E0E0EA;
+    -fx-stroke: transparent;
+    -fx-stroke-width: 0;
+}
+.chart-legend {
+	    -fx-border-radius: 3px;
+-fx-border-color: #00C1C2;
+}
+ 
+.chart-legend-item-symbol{
+   -fx-background-radius: 2px;
+}
+ 
+.chart-legend-item{
+    -fx-text-fill: #0011AA;
+	   -fx-padding: 1px;
+}
