@@ -4,8 +4,7 @@ The project, in addition to algorithms related to **Machine Learning** (K-Means,
 ![Data Mining Concept](FotoProgetto.jpg)
 
 The main phases of the project include: selection of characteristics, clustering and 2D / 3D visualization. If more than 3 characteristics are used, transformation techniques are used to reduce the characteristics, such as the PCA.
-<center>
-![Visual 2D](10.bmp)
+
 ![Visual 3D](19.bmp)
 
 The technology used is **JAVA** for **OOP** modeling and application of **software engineering** concepts, while for the GUI the **JavaFX** framework was used, creating menus, 2D graphs and 3D representations.
